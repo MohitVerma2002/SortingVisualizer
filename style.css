@@ -65,7 +65,7 @@ span{
 }
 h1{
     font-size:x-large;
-    margin: 5px 0px;
+    margin: 2.5rem 0px;
     font-family: 'Bree Serif', serif;
 }
 a{
@@ -87,7 +87,7 @@ footer{
 }
 }
 button{
-    margin:1.5rem 2rem 1rem 2rem;
+    margin:2.5rem 2rem 1rem 2rem;
     color:white;
     background-color: black;
     border: black;
@@ -112,6 +112,7 @@ footer{
     text-align: center;
     font-size: .6rem;
     font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
 }
 .footer p{
     color:white;
